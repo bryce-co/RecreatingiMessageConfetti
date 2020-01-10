@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
+    <pages>
+        <page name='Step 1'/>
+        <page name='Step 2'/>
+        <page name='Step 3'/>
+        <page name='Step 4'/>
+        <page name='Step 5'/>
+        <page name='Step 6'/>
+        <page name='Step 7'/>
+        <page name='Step 8'/>
+    </pages>
+</playground>
