@@ -1,5 +1,7 @@
 # Recreating iMessage Confetti
 
+![Confetti Animation](http://bryce.co/recreating-imessage-confetti/confetti.gif)
+
 An Xcode Playground to acompany [this post](https://bryce.co/recreating-imessage-confetti/) on [bryce.co](https://bryce.co/).
 
 ## Usage
